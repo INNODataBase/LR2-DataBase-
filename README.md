@@ -1,1 +1,1 @@
-# LR2-DataBase-
+# LR2-Django-
